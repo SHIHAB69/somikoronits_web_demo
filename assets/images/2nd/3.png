@@ -1,0 +1,10 @@
+<svg width="300" height="200" xmlns="http://www.w3.org/2000/svg">
+  <rect width="300" height="200" fill="#fff3e0"/>
+  <rect x="100" y="20" width="100" height="160" fill="white" rx="12"/>
+  <rect x="110" y="30" width="80" height="10" fill="#ff9800" rx="4"/>
+  <rect x="110" y="50" width="80" height="60" fill="#ffe0b2" rx="4"/>
+  <rect x="110" y="120" width="60" height="8" fill="#e9ecef" rx="4"/>
+  <rect x="110" y="135" width="40" height="8" fill="#e9ecef" rx="4"/>
+  <circle cx="150" cy="160" r="8" fill="#ff9800"/>
+  <text x="150" y="195" text-anchor="middle" fill="#6c757d" font-family="Arial" font-size="12">Mobile App Development</text>
+</svg>
